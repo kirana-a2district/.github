@@ -16,4 +16,5 @@ The goal is we need to make a functional Desktop Environment made with Free Pasc
 3. System Settings
 4. File Manager
 5. Forking FPWM???
-6. Others
+6. Wayland???
+7. Others
