@@ -1,12 +1,15 @@
-## Hi there 👋
+## Kirana Project 👋
 
-<!--
+![Samarinda Desktop](https://github.com/kirana-a2district/samarinda-desktop/raw/master/screenshots/Screenshot_20220623_023909.png)
 
-**Here are some ideas to get you started:**
+**Project Goal:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+The goal is we need to make a functio Desktop Environment made with Free Pascal
+
+**Roadmap:**
+
+1. Desktop
+2. Dock Taskbar
+3. System Settings
+4. File Manager
+5. Others
