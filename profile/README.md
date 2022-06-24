@@ -7,7 +7,7 @@ Well, technically yes, this is reinventing the wheel. But, the purpose making th
 
 **Project Goal:**
 
-The goal is we need to make a functional Desktop Environment made with Free Pascal. I also want to help Pascal programming enthusiasts to grow and not assumed as a dead programming language anymore just like my teacher wish Mr. Bee (RIP), I want to fulfill his hope to make people to love Pascal again.
+The goal is we need to make a functional Desktop Environment made with Free Pascal. I also want to help Pascal programming enthusiasts to grow and not assumed as a dead programming language anymore, that's my wish, I dedicated my project for wish Mr. Bee (RIP), I want to fulfill his hope to make people to love Pascal again.
 
 **Roadmap:**
 
