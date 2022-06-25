@@ -25,5 +25,5 @@ The goal is we need to make a functional Desktop Environment made with Free Pasc
 1. Qt5 Widgetset
 2. BGRABitmap and BGRAControls
 3. Lazarus/LCL
-4. Free Pascal
+4. Free Pascal/FCL
 5. X11
