@@ -4,6 +4,7 @@
 Well, technically yes, this is reinventing the wheel. But, the purpose making them in Free Pascal since the most DEs are written in C or C++. Customizability is not a priority, if you want to have another look, just modify the source and recompile. The goal is there's no bloated extension manager that runs Javascript or Python codes, make the DE as clean and as lightweight as possible.
 
 ![Samarinda Desktop](https://github.com/kirana-a2district/samarinda-desktop/raw/master/screenshots/Screenshot_20220623_023909.png)
+![Samarinda Desktop](https://github.com/kirana-a2district/samarinda-desktop/raw/master/screenshots/Screenshot_20220625_180443.png)
 
 **Project Goal:**
 
