@@ -27,3 +27,6 @@ The goal is we need to make a functional Desktop Environment made with Free Pasc
 3. Lazarus/LCL
 4. Free Pascal/FCL
 5. X11
+
+** Official Character Name **
+Kirana Handayani (꧋ꦲꦤ꧀ꦝꦪꦤꦶꦏꦶꦫꦤ, 長頼綺礼)
